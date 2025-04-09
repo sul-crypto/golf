@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="^vZ],ThvcAASQ;!+F7Qd">sprite</variable></variables><block type="device_forever" id="!O0dL6uP*^@s.{%=H]1K" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id=";t/zv?=!B[}U--|YyT,i"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></statement></block></xml>
